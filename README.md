@@ -7,6 +7,7 @@ Hornby: https://uk.hornby.com/ \
 JMRI: https://www.jmri.org/ \
 Open Rail Data: https://wiki.openraildata.com/index.php/Special:AllPages \
 MQTT: https://mqtt.org/
+IECC: https://www.rmweb.co.uk/forums/topic/147816-collingwood-iecc-creating-a-prototypical-iecc-for-a-model-railway/
 
 # Designer
 
