@@ -6,6 +6,7 @@ DCC Model Railway Signalling: https://www.model-railway-signalling.co.uk/product
 Hornby: https://uk.hornby.com/ \
 JMRI: https://www.jmri.org/ \
 Open Rail Data: https://wiki.openraildata.com/index.php/Special:AllPages \
+MQTT: https://mqtt.org/
 
 # Designer
 
